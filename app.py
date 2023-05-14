@@ -11,5 +11,3 @@ def hello_world(token, chat_id, text):
         return make_response(jsonify({}), 200)
     except Exception as e:
         return make_response(jsonify({'error': e}), 500)
-
-app.run()
