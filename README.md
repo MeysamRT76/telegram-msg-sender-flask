@@ -18,7 +18,7 @@ Before you begin, you need the following:
 
 To set up the app locally, follow these steps:
 
-Clone the repository.
-Create a virtual environment.
-Install pip requirements from requirements.txt.
-Run the server.
+- Clone the repository.
+- Create a virtual environment.
+- Install pip requirements from requirements.txt.
+- Run the server.
